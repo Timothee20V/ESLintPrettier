@@ -1,12 +1,14 @@
 {
-    "author": "Timothee Viard <timothee.viardtv@gmail.com>",
-    "devDependencies": {
-        "typescript": "4.9.5"
-    },
-    "main": "src/index.js",
-    "scripts": {
-        "build": "tsc"
-    },
-    "type": "module",
-    "version": "0.0.1"
+  "author": "Timothee Viard <timothee.viardtv@gmail.com>",
+  "devDependencies": {
+    "prettier": "2.8.4",
+    "typescript": "4.9.5"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tsc",
+    "format": "prettier --write ."
+  },
+  "type": "module",
+  "version": "0.0.1"
 }

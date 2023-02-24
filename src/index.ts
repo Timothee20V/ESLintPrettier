@@ -4,6 +4,5 @@ export const hello = "world";
 console.log("ok");
 
 async function test() {
-    await Promise.resolve("hi");
-
+	await Promise.resolve("hi");
 }
