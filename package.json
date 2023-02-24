@@ -1,0 +1,6 @@
+{
+    "author": "Timothee Viard <timothee.viardtv@gmail.com>",
+    "devDependencies": {
+        "typescript": "4.9.5"
+    }
+}
